@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/acton
+PATH=$PATH:/acton
